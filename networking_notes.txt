@@ -1,0 +1,5 @@
+-IP Address Conflicts
+-Slow Internet Connection
+-DNS Issues
+-Unstable WIFI Signal
+-Firewall blocking connections
